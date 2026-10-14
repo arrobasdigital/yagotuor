@@ -1,0 +1,29 @@
+YAGO TOUR - SITE HTML, CSS E JAVASCRIPT
+
+COMO ABRIR
+1. Extraia o ZIP completo.
+2. Abra index.html no navegador para visualizar.
+3. Para publicar, envie os arquivos preservando a estrutura de pastas para a hospedagem.
+
+ESTRUTURA
+index.html - Conteudo e estrutura.
+styles.css - Identidade visual e responsividade.
+script.js - Menu, galeria de fotos e formulario para WhatsApp.
+assets/ - Logo original fornecida e fotografias reais do cliente em WebP.
+
+ATENCAO ANTES DE PUBLICAR
+- Confirmar o endereco completo da empresa, incluindo cidade e CEP: o formulario so informa Rua Ouro Preto, 318, estacionamento.
+- Confirmar se a van acomoda 18 passageiros (sem contar motorista) e politica de bagagem.
+- Confirmar se os traslados, viagens internacionais e transporte executivo estao operando atualmente.
+- Confirmar se o atendimento e 24 horas com respostas humanas ou se so recebe mensagens online.
+- Confirmar se existe politica de cancelamento, remarcacao e possiveis custos adicionais.
+- A pagina nao divulga precos ou depoimentos sem validacao.
+- Antes da publicacao comercial, verificar licencas, seguros, disponibilidade e condicoes legais de transporte conforme o roteiro.
+- Logo original enviada veio em JPG com fundo escuro: para aplicacoes adicionais, pode ser interessante receber SVG/PNG transparente.
+
+PERSONALIZACAO
+- Troque imagens em assets/ mantendo nomes ou altere o caminho das imagens no index.html.
+- WhatsApp configurado: 5531985035668.
+- Instagram configurado: @yagotourr.
+- O formulario abre WhatsApp com mensagem pre-preenchida; nao grava dados em servidor.
+- A pagina usa Google Fonts; se estiver offline, apresenta fontes do sistema.
